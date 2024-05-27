@@ -1,0 +1,111 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.7
+        },
+        "#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/Level_two_map.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.71,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1735.9154929577467,
+                "y": 64.0845070422535
+            }
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/Level_two_map.tmx#platformer_tilepack": {
+            "scaleInDock": 1.0659,
+            "scaleInEditor": 1
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/Start_map.tmx": {
+            "scale": 0.5986,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 117.77480788506517,
+                "y": 283.160708319412
+            }
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/Start_map.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/platformer-level-1.tmx": {
+            "scale": 0.99,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 279.29292929292933,
+                "y": 235.85858585858588
+            }
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/platformer-level-1.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "End_map.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.8155,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 356.22317596566523,
+                "y": 238.50398528510118
+            }
+        },
+        "End_map.tmx#tilemap_packed": {
+            "scaleInDock": 1.06,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.9281,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 261.2864992996444,
+                "y": 83.50393276586576
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 2.5633,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer/assets",
+    "last.imagePath": "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 40,
+    "openFiles": [
+        "platformer-level-1.tmx",
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/platformer-level-1.tmx"
+    ],
+    "project": "Starter Platform.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "/Users/calvinhunter/Documents/CMPM 120/TrialAndError/StarterPlatformer(failed)/assets/platformer-level-1.tmx",
+        "platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
